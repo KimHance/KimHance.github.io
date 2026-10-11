@@ -1,0 +1,1 @@
+var e=()=>typeof matchMedia<`u`&&matchMedia(`(prefers-reduced-motion: reduce)`).matches,t=()=>typeof location<`u`&&new URLSearchParams(location.search).has(`debug`),n=()=>typeof matchMedia<`u`&&matchMedia(`(max-width: 767px)`).matches,r=e=>`${`/`.replace(/\/$/,``)}/${e.replace(/^\//,``)}`;export{r as i,n,e as r,t};

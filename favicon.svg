@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <!-- 페이지와 같은 흑백. 장식 없이 이니셜만 — DESIGN.md '흑백 우선, 대문자 디스플레이'. -->
+  <rect width="32" height="32" fill="#000000"/>
+  <text x="16" y="22" text-anchor="middle"
+        font-family="Arial Narrow, Arial, Helvetica, sans-serif"
+        font-size="16" font-weight="700" letter-spacing="0.5"
+        fill="#ffffff">KH</text>
+</svg>
