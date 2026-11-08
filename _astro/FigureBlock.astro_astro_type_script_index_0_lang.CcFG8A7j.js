@@ -1,0 +1,1 @@
+import{t as e}from"./detail-interactive.El-NPLbx.js";e();

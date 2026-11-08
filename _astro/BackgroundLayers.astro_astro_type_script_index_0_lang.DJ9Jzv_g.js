@@ -1,0 +1,1 @@
+import{t as e}from"./starfield.C9CB7XNf.js";import{s as t}from"./motion.Nyi-cDQK.js";var n=document.querySelector(`[data-starfield]`);n&&e(n,t.home);
